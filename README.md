@@ -12,11 +12,15 @@
 ```
 https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
- 2. Барномаро бо dotnet run иҷро кунед:
+ 2. Ба папкаи репозитория гузаред:
+```
+cd Quadratic_Equation_Solver
+```
+ 3. Барномаро бо dotnet run иҷро кунед:
  ```
  dotnet run
  ```
- 3. Арзишҳои a, b, c-ро ворид кунед.
+ 4. Арзишҳои a, b, c-ро ворид кунед.
 ``` Мисол 
  a= 1 Enter 
  b= -3 Enter
@@ -36,11 +40,15 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
 ```
 https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
- 2. Запустите программу с помощью dotnet run:
+ 2. Перейдите в папку с проектом:
+ ```
+ cd Quadratic_Equation_Solver
+```
+ 3. Запустите программу с помощью dotnet run:
  ```
  dotnet run
  ```
- 3. Введите значения a, b, c.
+ 4. Введите значения a, b, c.
 ``` Пример 
  a= 1 Enter 
  b= -3 Enter
@@ -62,11 +70,15 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
 ```
 https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
- 2. Run the program using dotnet run:
+ 2. Go to the project folder:
+ ```
+cd Quadratic_Equation_Solver
+```
+ 3. Run the program using dotnet run:
  ```
  dotnet run
  ```
- 3. Enter the values for a, b, and c.
+ 4. Enter the values for a, b, and c.
 ```
  Example 
  a= 1 Enter 
