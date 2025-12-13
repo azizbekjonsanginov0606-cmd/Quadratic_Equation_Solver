@@ -43,8 +43,8 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
  c= 2 Enter 
  Result: Roots are x1 = 2, x2 = 1 
  ```
- English
- Quadratic Equation Solver
+ # English
+ ## Quadratic Equation Solver
  This application is written in C# and is used to solve quadratic equations. The general form of the equation is:
 ```
  ax² + bx + c = 0 
