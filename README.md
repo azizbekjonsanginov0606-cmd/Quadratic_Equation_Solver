@@ -7,16 +7,16 @@
  1. Ду решаи воқеӣ (discriminant > 0)
  2. Як решаи воқеӣ (discriminant = 0)
  3. Муодила ҳал надорад (discriminant < 0)
- Чӣ гуна истифода бурдан
+ #### Чӣ гуна истифода бурдан
  1. Репозиторияро clone кунед:
 ```
 https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
- 3. Барномаро бо dotnet run иҷро кунед:
+ 2. Барномаро бо dotnet run иҷро кунед:
  ```
  dotnet run
  ```
- 4. Арзишҳои a, b, c-ро ворид кунед.
+ 3. Арзишҳои a, b, c-ро ворид кунед.
 ``` Мисол 
  a= 1 Enter 
  b= -3 Enter
@@ -31,16 +31,16 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
  1. Два действительных корня (discriminant > 0)
  2. Один действительный корень (discriminant = 0)
  3. Нет дествителых корней  (discriminant < 0)
- Как использовать
+#### Как использовать
  1. Клонируйте репозиторий:
 ```
 https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
- 3. Запустите программу с помощью dotnet run:
+ 2. Запустите программу с помощью dotnet run:
  ```
  dotnet run
  ```
- 4. Введите значения a, b, c.
+ 3. Введите значения a, b, c.
 ``` Пример 
  a= 1 Enter 
  b= -3 Enter
@@ -57,16 +57,16 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
  1. Two real roots (discriminant > 0)
  2. One real root (discriminant = 0)
  3. No real roots (discriminant < 0)
- How to Use
+ #### How to Use
  1. Clone the repository:
 ```
 https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
- 3. Run the program using dotnet run:
+ 2. Run the program using dotnet run:
  ```
  dotnet run
  ```
- 4. Enter the values for a, b, and c.
+ 3. Enter the values for a, b, and c.
 ```
  Example 
  a= 1 Enter 
