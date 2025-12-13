@@ -61,11 +61,12 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
  3. Run the program using dotnet run:
  dotnet run
  4. Enter the values for a, b, and c.
-** Example 
+```
+ Example 
  a= 1 Enter 
  b= -3 Enter
  c= 2 Enter 
  Result: Roots are x1 = 2, x2 = 1 
- **
+```
 
  
