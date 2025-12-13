@@ -6,7 +6,7 @@
  Барнома арзишҳои a, b, ва c -ро мегирад ва решаҳои муодиларо ҳисоб мекунад. Барнома метавонад се ҳолатро фаро гирад:
  1. Ду решаи воқеӣ (discriminant > 0)
  2. Як решаи воқеӣ (discriminant = 0)
- 3. Решаҳое бо қисмҳои мажазӣ (discriminant < 0)
+ 3. Муодила ҳал надорад (discriminant < 0)
  Чӣ гуна истифода бурдан
  1. Репозиторияро clone кунед:
 ```
@@ -30,7 +30,7 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
  Программа принимает значения a, b и c и вычисляет корни уравнения. Программа учитывает три случая:
  1. Два действительных корня (discriminant > 0)
  2. Один действительный корень (discriminant = 0)
- 3. Комплексные корни (discriminant < 0)
+ 3. Нет дествителых корней  (discriminant < 0)
  Как использовать
  1. Клонируйте репозиторий:
 ```
@@ -56,7 +56,7 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
  The program takes a, b, and c as input and calculates the roots of the equation. It handles three cases:
  1. Two real roots (discriminant > 0)
  2. One real root (discriminant = 0)
- 3. Complex roots (discriminant < 0)
+ 3. No real roots (discriminant < 0)
  How to Use
  1. Clone the repository:
 ```
