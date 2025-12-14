@@ -45,25 +45,26 @@ cd Quadratic_Equation_Solver
 #### Мисолҳо (Examples)
 
 ##### Ду реша (D>0):
-
+```
 Enter a: 1
 Enter b: -3
 Enter c: 2
 Result: Roots are x1 = 2, x2 = 1
-
+```
 ##### Як реша (D=0):
-
+```
 Enter a: 1
 Enter b: 2
 Enter c: 1
 Result: Roots are x1 = x2 = -1
-
+```
 ##### Ҳеҷ решаи воқеӣ (D<0):
-
+```
 Enter a: 1
 Enter b: 2
 Enter c: 5
 Result: No real roots (D < 0)
+```
 # Русский
 ##  Решение квадратного уравнения (Quadratic Equation Solver)
  Это приложение написано на C# и предназначено для решения квадратных уравнений. Общее уравнение имеет вид:
@@ -107,28 +108,26 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
 #### Примеры (Examples)
 
 ##### Два корня (D>0):
-
+```
 Enter a: 1
 Enter b: -3
 Enter c: 2
 Result: Roots are x1 = 2, x2 = 1
-
+```
 ##### Один корень (D=0):
-
+```
 Enter a: 1
 Enter b: 2
 Enter c: 1
 Result: Roots are x1 = x2 = -1
-
+```
 ##### Нет действительных корней (D<0):
-
+```
 Enter a: 1
 Enter b: 2
 Enter c: 5
 Result: No real roots (D < 0)
-
-
----
+```
  # English
  ## Quadratic Equation Solver
  This application is written in C# and is used to solve quadratic equations. The general form of the equation is:
@@ -174,24 +173,24 @@ cd Quadratic_Equation_Solver
 #### Examples
 
 ##### Two real roots (D>0):
-
+```
 Enter a: 1
 Enter b: -3
 Enter c: 2
 Result: Roots are x1 = 2, x2 = 1
-
+```
 ##### One real root (D=0):
-
+```
 Enter a: 1
 Enter b: 2
 Enter c: 1
 Result: Roots are x1 = x2 = -1
-
+```
 ##### No real roots (D<0):
-
+```
 Enter a: 1
 Enter b: 2
 Enter c: 5
 Result: No real roots (D < 0)
-
+```
  
