@@ -2,7 +2,9 @@
 # Тоҷикӣ
 ## Муодилаи квадрати (Quadratic Equation Solver)
  Ин барнома дар забони C# навишта шудааст ва барои ҳалли муодилаҳои квадрати истифода мешавад. Муодила ба шакли умумӣ аст:
-``` ax² + bx + c = 0 ```
+```
+ ax² + bx + c = 0 
+ ```
  Барнома арзишҳои a, b, ва c -ро мегирад ва решаҳои муодиларо ҳисоб мекунад. Барнома метавонад се ҳолатро фаро гирад:
  1. Ду решаи воқеӣ (discriminant > 0)
  2. Як решаи воқеӣ (discriminant = 0)
@@ -11,7 +13,7 @@
 ### Барои иҷро кардан, ба компютер бояд насб бошад:
 1. .NET SDK
  https://dotnet.microsoft.com/download
-Санҷед:
+##### Санҷед:
 ```
 dotnet --version
 ```
@@ -46,29 +48,31 @@ cd Quadratic_Equation_Solver
 
 ##### Ду реша (D>0):
 ```
-Enter a: 1
-Enter b: -3
-Enter c: 2
+ a= 1
+Enter b= -3
+Enter c= 2
 Result: Roots are x1 = 2, x2 = 1
 ```
 ##### Як реша (D=0):
 ```
-Enter a: 1
-Enter b: 2
-Enter c: 1
+ a= 1
+Enter b= 2
+Enter c= 1
 Result: Roots are x1 = x2 = -1
 ```
 ##### Ҳеҷ решаи воқеӣ (D<0):
 ```
-Enter a: 1
-Enter b: 2
-Enter c: 5
+ a= 1
+Enter b= 2
+Enter c= 5
 Result: No real roots (D < 0)
 ```
 # Русский
 ##  Решение квадратного уравнения (Quadratic Equation Solver)
  Это приложение написано на C# и предназначено для решения квадратных уравнений. Общее уравнение имеет вид:
+ ```
  ax² + bx + c = 0
+ ```
  Программа принимает значения a, b и c и вычисляет корни уравнения. Программа учитывает три случая:
  1. Два действительных корня (discriminant > 0)
  2. Один действительный корень (discriminant = 0)
@@ -109,23 +113,23 @@ https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git
 
 ##### Два корня (D>0):
 ```
-Enter a: 1
-Enter b: -3
-Enter c: 2
+ a= 1
+Enter b= -3
+Enter c= 2
 Result: Roots are x1 = 2, x2 = 1
 ```
 ##### Один корень (D=0):
 ```
-Enter a: 1
-Enter b: 2
-Enter c: 1
+ a= 1
+Enter b= 2
+Enter c= 1
 Result: Roots are x1 = x2 = -1
 ```
 ##### Нет действительных корней (D<0):
 ```
-Enter a: 1
-Enter b: 2
-Enter c: 5
+ a= 1
+Enter b= 2
+Enter c= 5
 Result: No real roots (D < 0)
 ```
  # English
@@ -174,23 +178,23 @@ cd Quadratic_Equation_Solver
 
 ##### Two real roots (D>0):
 ```
-Enter a: 1
-Enter b: -3
-Enter c: 2
+ a= 1
+Enter b= -3
+Enter c= 2
 Result: Roots are x1 = 2, x2 = 1
 ```
 ##### One real root (D=0):
 ```
-Enter a: 1
-Enter b: 2
-Enter c: 1
+ a= 1
+Enter b= 2
+Enter c= 1
 Result: Roots are x1 = x2 = -1
 ```
 ##### No real roots (D<0):
 ```
-Enter a: 1
-Enter b: 2
-Enter c: 5
+ a= 1
+Enter b= 2
+Enter c= 5
 Result: No real roots (D < 0)
 ```
  
