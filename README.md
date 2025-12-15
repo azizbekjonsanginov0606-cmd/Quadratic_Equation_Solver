@@ -33,7 +33,7 @@ dotnet --version
  ### Чӣ гуна истифода бурдан
  1. Репозиторияро clone кунед:
 ```
-https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
+git clone https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
  2. Ба папкаи репозитория гузаред:
 ```
@@ -98,7 +98,7 @@ dotnet --version
 ### Как использовать
  1. Клонируйте репозиторий:
 ```
-https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
+git clone https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
  2. Перейдите в папку с проектом:
  ```
@@ -163,7 +163,7 @@ dotnet --version
  ### How to Use
  1. Clone the repository:
 ```
-https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
+git clone https://github.com/azizbekjonsanginov0606-cmd/Quadratic_Equation_Solver.git  
  ```
  2. Go to the project folder:
  ```
